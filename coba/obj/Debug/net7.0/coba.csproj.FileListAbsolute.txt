@@ -1,0 +1,15 @@
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/bin/Debug/net7.0/coba
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/bin/Debug/net7.0/coba.deps.json
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/bin/Debug/net7.0/coba.runtimeconfig.json
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/bin/Debug/net7.0/coba.dll
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/bin/Debug/net7.0/coba.pdb
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.csproj.AssemblyReference.cache
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.AssemblyInfoInputs.cache
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.AssemblyInfo.cs
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.csproj.CoreCompileInputs.cache
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.dll
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/refint/coba.dll
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.pdb
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/coba.genruntimeconfig.cache
+/Users/darasheibamalikachoiriyyah/Projects/coba/coba/obj/Debug/net7.0/ref/coba.dll
